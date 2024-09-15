@@ -1,0 +1,19 @@
+Frameworks
+- Look into common frameworks for webpages, portfolios
+
+Navigation
+  - (Done) Nav bar should be a componenet to load vs coded on every page (DRY)
+  - Implement on every page
+  - create site map for future work and pathing
+  - Remap the paged to correct paths
+  
+Learning
+- Review the old and new syntax of the script.js, loadNavbar.js, and associated calls in html files to understand how it is functioning.
+
+Singlepage resources:
+- https://pages.github.com/
+- https://onepagelove.com/
+
+Single Page
+- Learn more about how single page apps work and consider refactor
+- you would want to populate an entry to the history to give the appearanc of navigating and usability of the exisitng browser functioinality
