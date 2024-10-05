@@ -1,6 +1,9 @@
 Navigation
   - (Done) Nav bar should be a componenet to load vs coded on every page (DRY)
-  - Implement nav bar on every page
+  - Implement nav bar on 
+    - [done] about
+    - [done] work
+    - [done] words
   - create site map for future work and pathing
   - Remap the paged to correct paths
   
